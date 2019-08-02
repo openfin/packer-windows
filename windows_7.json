@@ -4,7 +4,7 @@
       "boot_wait": "2m",
       "cpus": 2,
       "disk_adapter_type": "lsisas1068",
-      "disk_size": 61440,
+      "disk_size": 40960,
       "floppy_files": [
         "./answer_files/7/Autounattend.xml",
         "./scripts/dis-updates.ps1",
@@ -35,7 +35,7 @@
     {
       "boot_wait": "2m",
       "cpus": 2,
-      "disk_size": 61440,
+      "disk_size": 40960,
       "floppy_files": [
         "./answer_files/7/Autounattend.xml",
         "./scripts/dis-updates.ps1",
